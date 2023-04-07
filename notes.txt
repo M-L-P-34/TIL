@@ -1,1 +1,2 @@
 git initializing notes.
+initialized successfully .
